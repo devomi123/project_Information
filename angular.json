@@ -52,6 +52,7 @@
               "src/assets/js/adminlte.js",
               "src/assets/js/adminlte.min.js",
               "src/assets/js/demo.js"
+              ""
             ]
           },
           "configurations": {
